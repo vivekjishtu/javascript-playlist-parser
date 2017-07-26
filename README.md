@@ -35,7 +35,7 @@ function next (audio, playlist, i) {
 };
 ```
 
-[Demo](http://nickdesaulniers.github.io/javascript-playlist-parser/)
+[Demo](http://vivekjishtu.github.io/javascript-playlist-parser/)
 
 ###Node.js###
 Adds `require('playlist-parser').M3U.parse`,
